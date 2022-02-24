@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "adb51f5d-0105-3c2f-a0fb-7e40c85024d3",
+    "name": "DonkTH",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a9ddf01f-b5d4-3095-941a-1c1bfa727605",
+    "name": "AlbionST",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ba66d1ce-83ba-3f23-8520-c190bac3286a",
+    "name": "RyukahTK",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "54ade138-8184-375c-aef9-c12a8bb8fcca",
+    "name": "Shinki26",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
